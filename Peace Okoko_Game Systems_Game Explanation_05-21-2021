@@ -1,0 +1,141 @@
+<p>
+    Peace Okoko
+	05/15/2021
+	Game Systems
+	Game Explanation
+</p>
+<p>
+    The game I created is currently called Press and Play. The concept of my
+    game was inspired by the game Flappy Bird. Flappy Bird was a mobile game
+    released on May 24, 2013. The game instantly became a hit, with downloads
+    reaching 50 million less than a year after its release. Almost everyone at
+    my high school had downloaded flappy bird, and there was a battle to reach
+    the highest score all over my high school. I remember my classmates
+    obsessively playing Flappy Bird. YouTube videos that explained how to get
+    high scores on Flappy Bird grew in popularity as the demand to beat the
+    game continued. However, as quickly as Flappy Bird reached the heights of
+    its success, its popularity began to decline. People began to see how
+    addictive the game was and the detriments of the game became more apparent.
+    The creator of Flappy Bird, Dong Nguyen, took the game off the app store in
+    2014 after realizing how addictive the game was. Nguyen said, “Flappy Bird
+    was designed to play for a few minutes when you are relaxed… but it happens
+    to become an addictive product. I think it has a problem. To solve that
+    problem, it is best to take down Flappy Bird. It’s gone forever” (“Here is
+    the Real Reason Flappy Bird was removed”, 2014). At the time Nguyen was
+    making $50,000 a day from ads aired on the game. However, he still chose to
+    delete the app from the guilt he felt.
+</p>
+<p>
+    <strong>Why was it so addictive?</strong>
+    <strong> </strong>
+</p>
+<p>
+    The game featured a duck surrounded by a background of poles. The main goal
+    of the game was to tap the screen as fast as possible so that the duck
+    would not fall into the pipes or bump into anything. In Flappy Bird, being
+    close to a pipe would mean the user had to restart the game. The maze
+    created by the appearance of the pipes in Flappy Bird was endless. Even
+    after a user beat their high score, there was no gratification because the
+    game was so monotonous. The monotonous aspect of the game kept users
+    playing because there was no change in scenery/background to track the
+    users’ progress through. Everything stayed the same but every time the user
+    started a new game they were uncertain as to whether they would even make
+    it past the first pipe without dying. The frustration many people had when
+    playing the game found its way to social media. The more people saw the
+    game being praised on social media, the more users and popularity the game
+    gained. It was like people enjoyed having a community where they could vent
+    their frustrations to and brag about their high scores.
+</p>
+<p>
+    <strong>Aspects of Flappy Bird </strong>
+    <strong>Game I'm Keeping:</strong>
+</p>
+<p>
+    When creating my game I wanted to focus on the nostalgic aspect of the
+    game. My background is the same color as the Flappy Bird background. I
+    think the color creates a calming mood that the user can easily get lost
+    in. The higher levels of my game have the green blocks on them to emulate
+    the pipes in Flappy Bird. My game is also a jumping game where users
+    primarily have to press the up button to get any substantial movement. The
+    jumping is similar to that in Flappy Bird where the user has to have one
+    key pressed for a while to sustain movement. I implemented gravity in the
+    game in the same way it is done in Flappy Bird. The gravity pushes the user
+    down suddenly when they stop holding the up-arrow key. This forces the user
+    to constantly be on their toes and think of the moves they make ahead of
+    time.
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong>Concept</strong>
+</p>
+<p>
+    The initial concept of my game was creating an adventure game where my
+    little cousin would feel seen and represented. There are not a lot of games
+    with black characters on the market right now. Games with black femme
+    characters can be counted on one hand. My cousin plays a lot of video
+    games, and I wanted her to get a chance to see herself in the game. At
+    first, I wanted my game to be a hair tutorial where the user collects
+    products and then hair styles created from the collection of products would
+    be displayed. In this initial version of the game the user would start out
+    with no hair and then collect products and the hair style would be
+    displayed at the end. However, I soon realized this would not be the best
+    message to send to my cousin and I wanted every hairstyle to have equal
+    representation and for there not to be a goal to aspire to. So I decided to
+    create an adventure-like game where the user goes through all the flat
+    blocks and collects a certain number of products to move on to the next
+    level.
+</p>
+<p>
+    <strong>Sprites:</strong>
+</p>
+<p>
+    I have a set of 5 different sprites. Each of my sprite characters are
+    called person. Each set has its own outfit and range of motions. My initial
+    idea was to rotate through each of the sprite characters and have them
+    change their representation once a button for motion was pressed. If the
+    right arrow key was pressed for example, I wanted the sprite being
+    displayed to have their feet going in that direction. However, I had a lot
+    of trouble figuring out a function that would cycle through each of the
+    sprites when a specific motion was warranted. Instead of having the sprites
+    circle around I just had one sprite set as the sprite for the whole game.
+    In addition to this, I created sprites for each of the natural hair
+    products that needed to be collected by the user in order to win the game.
+</p>
+<p>
+    <strong>Music:</strong>
+</p>
+<p>
+    I wanted the music to set the scene for the game. The song that kept
+    replaying in my head while I was doing the code for the game was, “Lost in
+    the World” by Kanye West. I think it works with the concept of the game
+    because the character has to find the products in an unknown world. The
+    music plays throughout the whole game until the user loses. I was in the
+    middle of coding the losing song into the game but it was causing a glitch
+    in my code and I decided against it. Eventually I would like to add a song
+    for a win and a loss.
+</p>
+<p>
+    <strong>Map:</strong>
+</p>
+<p>
+    The map is directly influenced by the aspects of Flappy Bird. The blue
+    background color and blocks are supposed to borrow from the Flappy Bird
+    game. I was also inspired by African print patterns when I was designing
+    the blocks. Each tile/block has its own distinct design.
+</p>
+<p>
+    <strong>Improvements/Future:</strong>
+</p>
+<p>
+    I still have a lot of glitches that need to be solved. The first is the
+    bottom right collision. I also have to fix the level transitions so that
+    the user can move from one level to another seamlessly.
+</p>
+<p>
+    <strong>Bibliography</strong>
+</p>
+<p>
+    1. “Here is the real reason Flappy Bird was removed”. 2014
+</p>
